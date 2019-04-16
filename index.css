@@ -15,8 +15,7 @@
 	}
 	
 	
-	
-	@media screen and (max-width:950px) {
+    @media screen and (max-width:950px) {
     
       .topnav{
 
@@ -75,7 +74,7 @@
     
     @media screen and (min-width:951px){
 	
-	  .topnav{
+	.topnav{
 
             overflow:hidden;
 	    padding: 1% 10px 10px 5px;
@@ -84,18 +83,18 @@
 	
 	.topnav .icon{
 	
-	  display:none;
+	    display:none;
 	  
 	  
 	}
 	
 	.topnav a {
 	  
-	  float:center;
-	  text-align:left;
-	  font-size:16px;
-	  padding:0 2% 0 2%;
-	  text-decoration:none;
+	    float:center;
+	    text-align:left;
+	    font-size:16px;
+	    padding:0 2% 0 2%;
+	    text-decoration:none;
 	
 	}
 	
